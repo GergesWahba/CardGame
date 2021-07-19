@@ -1,8 +1,4 @@
-/* Author: Michael Ziegler
- * CSCI 3110-001
- * Project #4
- * Due: 02/28/19
- * 
+/* 
  * File: proj4.cpp
  * Purpose: Write a C++ program to simulate a simple card game between two 
  * players. The 52 cards in a deck of cards are shuffled and each player draws
