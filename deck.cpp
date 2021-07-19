@@ -1,8 +1,4 @@
-/* Michael Ziegler                                           DECK_IMPLIMENTATION
- * CSCI 3110-001
- * Project #4
- * Due: 02/28/19
- * 
+/* 
  * File: deck.cpp
  * Purpose: Deck class implimentation for proj4 executable.
  */
