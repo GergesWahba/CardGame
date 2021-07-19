@@ -1,8 +1,4 @@
-/* Michael Ziegler                                       PLAYER_IMPLIMENTATION
- * CSCI 3110-001
- * Project #4
- * Due: 02/28/19
- * 
+/* 
  * File: player.cpp
  * Purpose: Player class implimentation for proj4 executable.
  */
