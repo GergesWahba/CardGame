@@ -1,8 +1,4 @@
-/* Michael Ziegler                                           CARD_IMPLIMENTATION
- * CSCI 3110-001
- * Project #4
- * Due: 02/28/19
- * 
+/*
  * File: card.cpp
  * Purpose: Card class implimentation for proj4 executable.
  */
