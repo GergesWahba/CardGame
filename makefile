@@ -1,8 +1,4 @@
-# Michael Ziegler                                                       MAKEFILE
-# CSCI 3110-001
-# Project #4
-#Due: 02/28/19
-# 
+
 # File: makefile
 # Purpose: makefile to create "proj4" executable.
 CC=g++
