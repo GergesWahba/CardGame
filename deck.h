@@ -1,7 +1,4 @@
-/* Michael Ziegler                                                    DECK_CLASS
- * CSCI 3110-001
- * Project #4
- * Due: 02/28/19
+/* 
  * File: deck.h
  * Purpose: Deck class for proj4.cpp
  */
