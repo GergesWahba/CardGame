@@ -1,7 +1,4 @@
-/* Michael Ziegler                                                  PLAYER_CLASS
- * CSCI 3110-001
- * Project #4
- * Due: 02/28/19
+/* 
  * File: player.h
  * Purpose: Player Class for proj4.cpp
  */
